@@ -1,0 +1,15 @@
+{
+  "name": "nearest-tachyons-color",
+  "version": "1.0.0",
+  "description": "Find the nearest tachyons color",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ctjhoa",
+  "license": "MIT",
+  "dependencies": {
+    "nearest-color": "^0.4.1"
+  }
+}
