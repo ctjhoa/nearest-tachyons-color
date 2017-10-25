@@ -6,6 +6,7 @@ Find the nearest tachyons color from a HEX color
 
 ```bash
 $ git clone https://github.com/ctjhoa/nearest-tachyons-color
+$ npm install
 ```
 
 ## Usage
